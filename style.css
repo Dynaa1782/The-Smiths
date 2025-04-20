@@ -1,0 +1,52 @@
+body {
+    font-family: "Kodchasan", sans-serif;
+    background-color: #C6E0B0;
+  color: #81996E;
+  font-weight: bold;
+}
+
+header {
+    background-color: #657756;
+    padding: 25px;
+}
+
+nav {
+    background-color: #657756;
+    padding: 10px;
+}
+
+nav a {
+    background-color: #9EBB87;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    border-radius: 30px;
+    color: #48553D;
+
+}
+.group_img {
+    text-align: center;
+}
+
+.group_img img {
+    display: inline-block;
+    width: 300px;
+    margin: 5px;
+    vertical-align: top;
+
+}
+
+h1 {
+  font-weight: 700;
+  font-style: normal;
+  font-size: 36px;
+  text-align: center;
+}
+
+.desc {
+    color: #657756;
+}
+
+footer {
+    background-color: #657756;
+    padding: 10px;
+}
